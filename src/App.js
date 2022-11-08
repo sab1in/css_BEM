@@ -20,6 +20,10 @@ const App = () => {
           <PlayListItem />
           <PlayListItem />
           <PlayListItem />
+          <PlayListItem />
+          <PlayListItem />
+          <PlayListItem />
+          <PlayListItem />
         </div>
       </div>
     </>
